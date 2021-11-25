@@ -14,7 +14,7 @@ let package = Package(
       name: "DGis",
       url:
         "https://files.bafood.tech/bafood-prod-eu-files/dev/DGisMapSDK.zip",
-      checksum: "0272dc877f7e768a5e313279ac3849c3f98131105e9b14c86c188b5dff2d5b94"
+      checksum: "106c69614d3d5bba2cf2d7e1ddbb5f5d46cb41051f3390ae38b6f05a2e10f802"
     )
   ]
 )
